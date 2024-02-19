@@ -2,5 +2,6 @@
 
 int main(){
     char myChar = 'A';
-    printf("Caracter: %c\n", myChar);
+    char myChar2 = 'B';
+    printf("Caracter: %c\nCaracter: %c\n", myChar, myChar2);
 }
